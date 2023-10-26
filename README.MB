@@ -1,0 +1,9 @@
+วิธี Run ไฟล์
+1.เข้าตัวโปรแกรม VMware และเข้าสู่ระบบ Ubuntu 20 (หากไม่เคยติดตั้ง)
+2.เมื่อเข้าสู่ระบบแล้ว ให้ใช่ตัว Command ติดตั้งตัว Git และ Apache2
+-sudo apt install git
+-sudo apt install apache2
+3.หลังจากติดตั้งเสร็จ ให้ใช้คำสั่ง
+-git clone https://github.com/rueangrit-sri/CE341_ID1279.git
+4.เมื่อ Clone เสร็จแล้ว ให้ใช้คำสั่ง cd CE341_ID1279 
+5.เมื่อเข้ามาแล้ว ให้ใช้คำสั่ง cat index.html เพื่ออ่านไฟล์
